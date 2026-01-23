@@ -10,4 +10,4 @@ cv2.imshow("cropped image",cropped)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-cv2.imwrite("cropped image",cropped)
+cv2.imwrite("croppefimage.jpeg",cropped)
